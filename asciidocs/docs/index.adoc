@@ -15,3 +15,7 @@ Das Informatikportal soll als interaktive Lernplattform benutzt werden, welches 
 
 === Projektnutzen
 Das Informatikportal kombiniert Theorie und Praxis, ermöglicht den Zugang zu wertvollen Ressourcen und bietet sofortiges Feedback. Die Plattform fördert das Lernen durch interaktive Elemente und unterstützt alle Nutzer und Nutzerinnen, unabhängig von ihrem Kenntnisstand.
+
+=== Konsequenzen der Nichtdurchführung
+Ohne der Plattform hätte man keine Möglichkeit alles gesammelt auf einem Portal zu finden. Schüler und Schülerinnen und auch die Lehrkräfte hätten die Vorteile des Informatikportales nicht.
+Das Lernen und Informieren wäre so viel mühsamer.

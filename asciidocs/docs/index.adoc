@@ -5,13 +5,14 @@ ifndef::imagesdir[:imagesdir: images]
 == Informatikportal
 
 === Projektbeschreibung
-Das Informatikportal soll als interaktive Lernplattform benutzt werden, welches den Nutzern und Nutzerinnen ermöglicht, ihre Programmierkenntnisse zu erweitern und grundlegende Informatikthemen zu verstehen. Die Plattform bietet Aufgaben, Tutorials und Informationen zu aktuellen Technologien.
+Das Informatikportal soll als interaktive Lernplattform benutzt werden, welches den Nutzern und Nutzerinnen ermöglicht, ihre Programmierkenntnisse zu erweitern und grundlegende Informatikthemen zu verstehen. Die Plattform bietet Aufgaben, Tutorials und Informationen zu aktuellen Technologien. Es gibt auch ein Rankingsystem in dem man sieht wie gut man ist.
 
 === Projektziele
-* Entwicklung einer Plattform zur Lösung von Programmieraufgaben
+* Codesamples gegeben um besser zu lernen
 * Verbesserung praktischer Programmierfähigkeiten durch interaktive Übungen
 * Bereitstellung von Ressourcen zur Vertiefung des Informatikverständnisses
 * Förderung der Lernmotivation durch ein Punktesystem und Ranglisten
+* Leichte Verständlichkeit der Aufgaben
 
 === Projektnutzen
 Das Informatikportal kombiniert Theorie und Praxis, ermöglicht den Zugang zu wertvollen Ressourcen und bietet sofortiges Feedback. Die Plattform fördert das Lernen durch interaktive Elemente und unterstützt alle Nutzer und Nutzerinnen, unabhängig von ihrem Kenntnisstand.

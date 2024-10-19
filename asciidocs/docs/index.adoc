@@ -4,4 +4,3 @@ ifndef::imagesdir[:imagesdir: images]
 
 == Informatikportal
 
-===

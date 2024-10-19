@@ -12,3 +12,6 @@ Das Informatikportal soll als interaktive Lernplattform benutzt werden, welches 
 * Verbesserung praktischer Programmierfähigkeiten durch interaktive Übungen
 * Bereitstellung von Ressourcen zur Vertiefung des Informatikverständnisses
 * Förderung der Lernmotivation durch ein Punktesystem und Ranglisten
+
+=== Projektnutzen
+Das Informatikportal kombiniert Theorie und Praxis, ermöglicht den Zugang zu wertvollen Ressourcen und bietet sofortiges Feedback. Die Plattform fördert das Lernen durch interaktive Elemente und unterstützt alle Nutzer und Nutzerinnen, unabhängig von ihrem Kenntnisstand.

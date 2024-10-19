@@ -1,2 +1,6 @@
 = Projektantrag
+Jan Harrucksteiner | 2024-10-19
+ifndef::imagesdir[:imagesdir: images]
+
+== Informatikportal
 
